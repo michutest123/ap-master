@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://www.baidu.com</string>
+					<string>https://mimi-1304471786.cos.ap-chengdu.myqcloud.com/backstage/20210206/1-01.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://www.baidu.com</string>
+					<string>https://mimi-1304471786.cos.ap-chengdu.myqcloud.com/backstage/20210206/1-01.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>行风监管</string>
+				<string>密处</string>
 			</dict>
 		</dict>
 	</array>
